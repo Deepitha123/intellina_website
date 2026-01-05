@@ -23,7 +23,7 @@ Follow these steps to run this project on your laptop.
 ### 1️⃣ Clone the Repository
 git clone https://github.com/Deepitha123/intellina_website.git
 
-cd intellina-symposium
+cd intellina_website
 
 
 ### 2️⃣ Install all required packages
