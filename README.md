@@ -21,9 +21,11 @@ This project is built to allow multiple team members to work on different pages 
 Follow these steps to run this project on your laptop.
 
 ### 1️⃣ Clone the Repository
-git clone https://github.com/Deepitha123/intellina_website.git
 
+```bash
+git clone https://github.com/Deepitha123/intellina_website.git
 cd intellina_website
+```bash
 
 
 ### 2️⃣ Install all required packages
