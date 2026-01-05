@@ -25,7 +25,7 @@ Follow these steps to run this project on your laptop.
 ```bash
 git clone https://github.com/Deepitha123/intellina_website.git
 cd intellina_website
-```bash
+
 
 
 ### 2️⃣ Install all required packages
